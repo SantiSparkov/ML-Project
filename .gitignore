@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.Python
+env/
+.env
+venv/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Datasets grandes y modelos
+*.h5
+*.joblib
+dataset/
+wandb/
+
+# Sistema
+.DS_Store
