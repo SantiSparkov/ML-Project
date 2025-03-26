@@ -5,6 +5,7 @@ Este proyecto de machine learning, desarrollado en Python, se centra en la predi
 Tecnologías Principales
 
 Lenguaje y Frameworks
+
 	•	Python
 	•	Scikit-learn para modelos tradicionales de Machine Learning
 	•	Keras/TensorFlow para redes neuronales
@@ -12,18 +13,21 @@ Lenguaje y Frameworks
 	•	Matplotlib y Seaborn para visualización de datos
 
 Procesamiento de Datos
+
 	•	Pandas y NumPy para manipulación y análisis de datos
 	•	TF-IDF Vectorizer y Tokenization para procesamiento de texto
 	•	GridSearchCV para optimización de hiperparámetros
 	•	Validación cruzada para mejorar la precisión de los modelos
 
 Modelos de Machine Learning Implementados
+
 	•	Random Forest
 	•	Gradient Boosting
 	•	Redes Neuronales (Deep Learning con Keras/TensorFlow)
 	•	Regresión Logística
 
 Estructura del Proyecto
+
 	•	Obligatorio2024.ipynb: Notebook principal con el desarrollo del proyecto
 	•	red_neuronal.ipynb: Implementación específica de redes neuronales
 	•	game_genre_model.h5: Modelo entrenado de red neuronal
